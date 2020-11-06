@@ -1,6 +1,10 @@
-# CompleteAngularMaterialApp
+# Prueba Angular Cursor
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 9.1.6.
+
+# clone repository
+
+On your local directory Run the following command `git clone https://github.com/franroav/angularcursor.git`
 
 ## Development server
 
